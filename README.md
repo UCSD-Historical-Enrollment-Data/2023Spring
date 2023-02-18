@@ -1,4 +1,4 @@
-# Spring 2023 Enrollment Data: General Undergraduate Enrollment
+# Spring 2023 Enrollment Data: General Enrollment
 Enrollment data for Spring 2023 for all undergraduate courses and select graduate courses.
 
 ## Supported Courses
