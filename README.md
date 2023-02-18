@@ -1,12 +1,13 @@
 # Spring 2023 Enrollment Data: General Undergraduate Enrollment
-Enrollment data for Spring 2023 for all undergraduate courses.
+Enrollment data for Spring 2023 for all undergraduate courses and select graduate courses.
 
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               |
 | ------------------------------ | --------------------------------------------------- |
 | 1-99 & 100-198 (Undergraduate) | All courses will be tracked.                        |
+| 200-297 (Graduate)             | Courses in the CSE, ECE, MATH, and COGS department. |
 
-## Enrollment Time Periods
+## Enrollment Time Periods (Undergraduates)
 | Level                       | Date                                                    |
 | --------------------------- | --------------------------------------------------------|
 | Priorities                  | February 18, 2023                                       |
