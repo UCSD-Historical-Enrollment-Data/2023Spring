@@ -1,0 +1,9 @@
+# HIEA
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| HIEA 114 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Spring/blob/main/overall/HIEA%20114.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall/HIEA%20114.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall_wide/HIEA%20114.png) |  |
+| HIEA 131 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Spring/blob/main/overall/HIEA%20131.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall/HIEA%20131.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall_wide/HIEA%20131.png) |  |
+| HIEA 138 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Spring/blob/main/overall/HIEA%20138.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall/HIEA%20138.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall_wide/HIEA%20138.png) |  |
+| HIEA 140R | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Spring/blob/main/overall/HIEA%20140R.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall/HIEA%20140R.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall_wide/HIEA%20140R.png) |  |
+| HIEA 151 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2023Spring/blob/main/overall/HIEA%20151.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall/HIEA%20151.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2023Spring/main/plot_overall_wide/HIEA%20151.png) |  |

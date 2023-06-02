@@ -1,6 +1,8 @@
 # Spring 2023 Enrollment Data: General Enrollment
 Enrollment data for Spring 2023 for all undergraduate courses and select graduate courses.
 
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2023Spring/blob/main/TOC.md)
+
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               |
 | ------------------------------ | --------------------------------------------------- |
